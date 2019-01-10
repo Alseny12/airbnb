@@ -1,0 +1,72 @@
+body{
+	background-image:url(Background.jpg);
+	background-color:#dc3545;
+	box-sizing: #ffc107
+}
+body{
+	color: #ffffff;
+	
+}
+div{
+	text-align: right;
+	display: block;
+	margin-top: 20px;
+
+}
+#air{
+	display: block;
+	margin-right: 300px;
+	color: #dc3545;
+
+}
+
+}
+img{
+
+	height:40px;
+	width :3px;
+}
+#search{
+	margin-top: 200px;
+}
+#date{
+	display: block;
+	margin-left: -630px;
+	margin-top: 200px; 
+	padding: -20PX;
+
+}
+#Jour{
+	width: 110px;
+	display: block;
+	margin-left: -600px; 
+	margin-top: 200px;
+	padding: 20px;
+	height: 100px
+
+
+}
+#menu{
+	display: flex;
+	flex-direction: row;
+	justify-content: right;
+	
+}
+#pays{
+	display: flex;
+	flex-direction: column;
+	margin-left: -630px;
+	margin-top: 200px;
+}
+#hote{
+	text-decoration: underline;
+}
+#reservation{
+	text-decoration: underline;
+}
+#ade{
+	text-decoration: underline;
+}
+#inscription{
+	text-decoration: underline;
+}
